@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "tween-functions": "^1.0.1",
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.6.1"
   },
   "devDependencies": {
     "babel-eslint": "^4.1.8",
